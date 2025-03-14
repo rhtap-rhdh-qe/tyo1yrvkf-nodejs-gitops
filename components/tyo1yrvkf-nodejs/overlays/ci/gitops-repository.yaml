@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tyo1yrvkf-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tyo1yrvkf-nodejs-gitops
